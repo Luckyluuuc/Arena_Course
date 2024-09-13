@@ -1,12 +1,12 @@
-# Arena_Course
-Repo to save my progress following the ARENA course 
+# Arena Course
 
-# Description of the course (by Arena)
-This GitHub repo hosts the exercises and Streamlit pages for the ARENA 3.0 program.
+This repository was created to follow the well-structured course provided by ARENA, which covers the basics of AI programming and explores technical research in AI safety.
 
-You can find a summary of each of the chapters below. For more detailed information (including the different ways you can access the exercises), click on the links in the chapter headings.
+I will update this repository with my progress, using the resources from ARENA, including notebooks and exercises.
 
-Additionally, see [this Notion page](https://arena-resources.notion.site/) for a guide to the virtual study materials available.
+A big thanks to ARENA for their support and for providing the resources to help me develop my skills in this field.
+
+## Course Description by ARENA (from their repo)
 
 ## [Chapter 0: Fundamentals](https://arena3-chapter0-fundamentals.streamlit.app/)
 
